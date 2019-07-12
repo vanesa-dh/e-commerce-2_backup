@@ -1,0 +1,20 @@
+{
+    "usuarios": [
+        {
+            "nombre": "hola",
+            "user": "mundo",
+            "pais": "ar",
+            "email": "vane@vane.com",
+            "imagen": null,
+            "password": "$2y$10$I7ddjIYy1VXctJP7ZXoizuKIW\/2bCTLrFwYA5r4jy1HZZH4pdsvTm"
+        },
+        {
+            "nombre": "hola",
+            "user": "mundo",
+            "pais": "ar",
+            "email": "vane@vane.com",
+            "imagen": null,
+            "password": "$2y$10$VQ9lRLJ2KQjXcsEIiizueORgUWxvyhElZFz7NhkhkS\/3WF3eX7Moa"
+        }
+    ]
+}
